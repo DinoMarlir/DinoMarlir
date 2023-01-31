@@ -12,7 +12,7 @@
 
  × RAM: 16GB DDR4
 
- × SSD: 256GB Samsung M.2 SD 
+ × SSD: 256GB Samsung M.2 SSD 
 
  × HDD: 1TB WD HDD
 
