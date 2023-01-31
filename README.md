@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on AirBlocks.de
 - 🌱 I’m currently learning Java and Kotlin
-- ⚡ Fun fact: I'm just switching to [Manjaro](https://manjaro.org/)
 - 💻 My PC specs:
- × Dual Boot: Windows 11, Manjaro Linux
+ × Windows 10 -> Windows 11 soon
 
  × CPU: Intel Core i7 10700F
 
