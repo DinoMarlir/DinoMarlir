@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Kotlin and Python
 - 👾 I'm just learning more about cloud infrastructures like Microsoft Azure
 
-also check out [Blueamethyst](https://blueamethyst.me)
+also check out [Blueamethyst](https://blueamethyst.me) *but not on phone because of bad css skills*
