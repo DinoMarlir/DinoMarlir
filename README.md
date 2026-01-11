@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marlon@einfachgustaf.live**
 
-- ⚡ Fun fact **I love Apple ❤️**
+- ⚡ Fun fact **I love Apple & Nike ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
